@@ -1,0 +1,201 @@
+N,Tip_Lista,Algoritm,Timp_Sortare,Memorie_Extra_Bytes,Status
+10,Aleator,Bubble Sort,246.0860 ns,0,OK
+10,Aleator,Selection Sort,345.0986 ns,0,OK
+10,Aleator,Insertion Sort,520.7411 ns,0,OK
+10,Aleator,Quick Sort,356.1463 ns,Stack,OK
+10,Aleator,Merge Sort,2.2148 us,136,OK
+50,Aleator,Bubble Sort,8.2988 us,0,OK
+50,Aleator,Selection Sort,5.5752 us,0,OK
+50,Aleator,Insertion Sort,3.0258 us,0,OK
+50,Aleator,Quick Sort,2.4277 us,Stack,OK
+50,Aleator,Merge Sort,22.8070 us,1144,OK
+100,Aleator,Bubble Sort,34.7947 us,0,OK
+100,Aleator,Selection Sort,21.7439 us,0,OK
+100,Aleator,Insertion Sort,11.9775 us,0,OK
+100,Aleator,Quick Sort,4.6568 us,Stack,OK
+100,Aleator,Merge Sort,27.5255 us,2688,OK
+1000,Aleator,Bubble Sort,6.2500 ms,0,OK
+1000,Aleator,Selection Sort,1.7931 ms,0,OK
+1000,Aleator,Insertion Sort,917.4312 us,0,OK
+1000,Aleator,Quick Sort,111.8568 us,Stack,OK
+1000,Aleator,Merge Sort,584.7953 us,39904,OK
+5000,Aleator,Bubble Sort,109.0000 ms,0,OK
+5000,Aleator,Selection Sort,41.0000 ms,0,OK
+5000,Aleator,Insertion Sort,64.0000 ms,0,OK
+5000,Aleator,Quick Sort,1.2024 ms,Stack,OK
+5000,Aleator,Merge Sort,2.4186 ms,247232,OK
+10000,Aleator,Bubble Sort,455.0000 ms,0,OK
+10000,Aleator,Selection Sort,276.0000 ms,0,OK
+10000,Aleator,Insertion Sort,86.5000 ms,0,OK
+10000,Aleator,Quick Sort,1.7931 ms,Stack,OK
+10000,Aleator,Merge Sort,3.9231 ms,534464,OK
+50000,Aleator,Bubble Sort,9.5620 s,0,OK
+50000,Aleator,Selection Sort,3.2910 s,0,OK
+50000,Aleator,Insertion Sort,2.0180 s,0,OK
+50000,Aleator,Quick Sort,9.0833 ms,Stack,OK
+50000,Aleator,Merge Sort,21.8000 ms,3137856,OK
+100000,Aleator,Bubble Sort,TIMEOUT,0,TIMEOUT
+100000,Aleator,Selection Sort,TIMEOUT,0,TIMEOUT
+100000,Aleator,Insertion Sort,7.1180 s,0,OK
+100000,Aleator,Quick Sort,41.0000 ms,Stack,OK
+100000,Aleator,Merge Sort,42.3333 ms,6675712,OK
+10,Sortat,Bubble Sort,79.9325 ns,0,OK
+10,Sortat,Selection Sort,195.3255 ns,0,OK
+10,Sortat,Insertion Sort,139.2250 ns,0,OK
+10,Sortat,Quick Sort,864.4985 ns,Stack,OK
+10,Sortat,Merge Sort,2.4345 us,136,OK
+50,Sortat,Bubble Sort,322.7580 ns,0,OK
+50,Sortat,Selection Sort,4.5379 us,0,OK
+50,Sortat,Insertion Sort,637.0806 ns,0,OK
+50,Sortat,Quick Sort,10.1771 us,Stack,OK
+50,Sortat,Merge Sort,28.6697 us,1144,OK
+100,Sortat,Bubble Sort,794.8320 ns,0,OK
+100,Sortat,Selection Sort,16.6144 us,0,OK
+100,Sortat,Insertion Sort,1.2642 us,0,OK
+100,Sortat,Quick Sort,46.4900 us,Stack,OK
+100,Sortat,Merge Sort,42.8449 us,2688,OK
+1000,Sortat,Bubble Sort,6.6339 us,0,OK
+1000,Sortat,Selection Sort,1.6452 ms,0,OK
+1000,Sortat,Insertion Sort,12.1751 us,0,OK
+1000,Sortat,Quick Sort,5.2632 ms,Stack,OK
+1000,Sortat,Merge Sort,370.2422 us,39904,OK
+5000,Sortat,Bubble Sort,28.7274 us,0,OK
+5000,Sortat,Selection Sort,40.0000 ms,0,OK
+5000,Sortat,Insertion Sort,58.8571 us,0,OK
+5000,Sortat,Quick Sort,93.0000 ms,Stack,OK
+5000,Sortat,Merge Sort,2.1667 ms,247232,OK
+10000,Sortat,Bubble Sort,57.6400 us,0,OK
+10000,Sortat,Selection Sort,141.0000 ms,0,OK
+10000,Sortat,Insertion Sort,136.6623 us,0,OK
+10000,Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+10000,Sortat,Merge Sort,3.6552 ms,534464,OK
+50000,Sortat,Bubble Sort,458.5153 us,0,OK
+50000,Sortat,Selection Sort,3.6490 s,0,OK
+50000,Sortat,Insertion Sort,647.4359 us,0,OK
+50000,Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+50000,Sortat,Merge Sort,14.2857 ms,3137856,OK
+100000,Sortat,Bubble Sort,548.9130 us,0,OK
+100000,Sortat,Selection Sort,TIMEOUT,0,TIMEOUT
+100000,Sortat,Insertion Sort,1.1905 ms,0,OK
+100000,Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+100000,Sortat,Merge Sort,28.7500 ms,6675712,OK
+10,Descrescator,Bubble Sort,437.6559 ns,0,OK
+10,Descrescator,Selection Sort,281.5308 ns,0,OK
+10,Descrescator,Insertion Sort,295.3562 ns,0,OK
+10,Descrescator,Quick Sort,437.3305 ns,Stack,OK
+10,Descrescator,Merge Sort,4.4149 us,136,OK
+50,Descrescator,Bubble Sort,10.3831 us,0,OK
+50,Descrescator,Selection Sort,4.3713 us,0,OK
+50,Descrescator,Insertion Sort,4.9307 us,0,OK
+50,Descrescator,Quick Sort,6.5244 us,Stack,OK
+50,Descrescator,Merge Sort,13.3245 us,1144,OK
+100,Descrescator,Bubble Sort,78.8064 us,0,OK
+100,Descrescator,Selection Sort,18.8128 us,0,OK
+100,Descrescator,Insertion Sort,19.2059 us,0,OK
+100,Descrescator,Quick Sort,28.5878 us,Stack,OK
+100,Descrescator,Merge Sort,28.9570 us,2688,OK
+1000,Descrescator,Bubble Sort,3.8148 ms,0,OK
+1000,Descrescator,Selection Sort,2.4884 ms,0,OK
+1000,Descrescator,Insertion Sort,1.8519 ms,0,OK
+1000,Descrescator,Quick Sort,4.3333 ms,Stack,OK
+1000,Descrescator,Merge Sort,362.3188 us,39904,OK
+5000,Descrescator,Bubble Sort,95.0000 ms,0,OK
+5000,Descrescator,Selection Sort,34.6667 ms,0,OK
+5000,Descrescator,Insertion Sort,47.0000 ms,0,OK
+5000,Descrescator,Quick Sort,179.0000 ms,Stack,OK
+5000,Descrescator,Merge Sort,1.6949 ms,247232,OK
+10000,Descrescator,Bubble Sort,455.0000 ms,0,OK
+10000,Descrescator,Selection Sort,155.0000 ms,0,OK
+10000,Descrescator,Insertion Sort,169.0000 ms,0,OK
+10000,Descrescator,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+10000,Descrescator,Merge Sort,2.9429 ms,534464,OK
+50000,Descrescator,Bubble Sort,7.7860 s,0,OK
+50000,Descrescator,Selection Sort,3.1610 s,0,OK
+50000,Descrescator,Insertion Sort,4.0410 s,0,OK
+50000,Descrescator,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+50000,Descrescator,Merge Sort,18.5000 ms,3137856,OK
+100000,Descrescator,Bubble Sort,TIMEOUT,0,TIMEOUT
+100000,Descrescator,Selection Sort,TIMEOUT,0,TIMEOUT
+100000,Descrescator,Insertion Sort,TIMEOUT,0,TIMEOUT
+100000,Descrescator,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+100000,Descrescator,Merge Sort,37.6667 ms,6675712,OK
+10,Aproape_Sortat,Bubble Sort,79.6158 ns,0,OK
+10,Aproape_Sortat,Selection Sort,244.5233 ns,0,OK
+10,Aproape_Sortat,Insertion Sort,234.8206 ns,0,OK
+10,Aproape_Sortat,Quick Sort,667.7350 ns,Stack,OK
+10,Aproape_Sortat,Merge Sort,2.0181 us,136,OK
+50,Aproape_Sortat,Bubble Sort,3.1724 us,0,OK
+50,Aproape_Sortat,Selection Sort,4.3183 us,0,OK
+50,Aproape_Sortat,Insertion Sort,942.8536 ns,0,OK
+50,Aproape_Sortat,Quick Sort,7.8688 us,Stack,OK
+50,Aproape_Sortat,Merge Sort,99.8403 us,1144,OK
+100,Aproape_Sortat,Bubble Sort,11.8963 us,0,OK
+100,Aproape_Sortat,Selection Sort,22.2222 us,0,OK
+100,Aproape_Sortat,Insertion Sort,1.8398 us,0,OK
+100,Aproape_Sortat,Quick Sort,18.3688 us,Stack,OK
+100,Aproape_Sortat,Merge Sort,30.9406 us,2688,OK
+1000,Aproape_Sortat,Bubble Sort,2.7105 ms,0,OK
+1000,Aproape_Sortat,Selection Sort,1.6825 ms,0,OK
+1000,Aproape_Sortat,Insertion Sort,134.0483 us,0,OK
+1000,Aproape_Sortat,Quick Sort,273.2240 us,Stack,OK
+1000,Aproape_Sortat,Merge Sort,636.9427 us,39904,OK
+5000,Aproape_Sortat,Bubble Sort,51.0000 ms,0,OK
+5000,Aproape_Sortat,Selection Sort,35.3333 ms,0,OK
+5000,Aproape_Sortat,Insertion Sort,3.2500 ms,0,OK
+5000,Aproape_Sortat,Quick Sort,1.0521 ms,Stack,OK
+5000,Aproape_Sortat,Merge Sort,1.5441 ms,247232,OK
+10000,Aproape_Sortat,Bubble Sort,230.0000 ms,0,OK
+10000,Aproape_Sortat,Selection Sort,194.0000 ms,0,OK
+10000,Aproape_Sortat,Insertion Sort,12.8750 ms,0,OK
+10000,Aproape_Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+10000,Aproape_Sortat,Merge Sort,3.8571 ms,534464,OK
+50000,Aproape_Sortat,Bubble Sort,3.5240 s,0,OK
+50000,Aproape_Sortat,Selection Sort,3.3700 s,0,OK
+50000,Aproape_Sortat,Insertion Sort,157.0000 ms,0,OK
+50000,Aproape_Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+50000,Aproape_Sortat,Merge Sort,12.7500 ms,3137856,OK
+100000,Aproape_Sortat,Bubble Sort,8.4440 s,0,OK
+100000,Aproape_Sortat,Selection Sort,TIMEOUT,0,TIMEOUT
+100000,Aproape_Sortat,Insertion Sort,273.0000 ms,0,OK
+100000,Aproape_Sortat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+100000,Aproape_Sortat,Merge Sort,28.5000 ms,6675712,OK
+10,Plat,Bubble Sort,321.5403 ns,0,OK
+10,Plat,Selection Sort,252.3914 ns,0,OK
+10,Plat,Insertion Sort,310.3373 ns,0,OK
+10,Plat,Quick Sort,291.3812 ns,Stack,OK
+10,Plat,Merge Sort,2.3827 us,136,OK
+50,Plat,Bubble Sort,6.7879 us,0,OK
+50,Plat,Selection Sort,4.4670 us,0,OK
+50,Plat,Insertion Sort,2.1495 us,0,OK
+50,Plat,Quick Sort,2.8741 us,Stack,OK
+50,Plat,Merge Sort,23.2773 us,1144,OK
+100,Plat,Bubble Sort,34.0834 us,0,OK
+100,Plat,Selection Sort,22.5276 us,0,OK
+100,Plat,Insertion Sort,8.5685 us,0,OK
+100,Plat,Quick Sort,5.5492 us,Stack,OK
+100,Plat,Merge Sort,34.1880 us,2688,OK
+1000,Plat,Bubble Sort,4.0385 ms,0,OK
+1000,Plat,Selection Sort,1.6667 ms,0,OK
+1000,Plat,Insertion Sort,622.7545 us,0,OK
+1000,Plat,Quick Sort,340.1361 us,Stack,OK
+1000,Plat,Merge Sort,625.0000 us,39904,OK
+5000,Plat,Bubble Sort,92.5000 ms,0,OK
+5000,Plat,Selection Sort,35.3333 ms,0,OK
+5000,Plat,Insertion Sort,19.3333 ms,0,OK
+5000,Plat,Quick Sort,10.0000 ms,Stack,OK
+5000,Plat,Merge Sort,1.6774 ms,247232,OK
+10000,Plat,Bubble Sort,354.0000 ms,0,OK
+10000,Plat,Selection Sort,274.0000 ms,0,OK
+10000,Plat,Insertion Sort,65.5000 ms,0,OK
+10000,Plat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+10000,Plat,Merge Sort,3.2188 ms,534464,OK
+50000,Plat,Bubble Sort,8.8040 s,0,OK
+50000,Plat,Selection Sort,3.3070 s,0,OK
+50000,Plat,Insertion Sort,1.6420 s,0,OK
+50000,Plat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+50000,Plat,Merge Sort,16.1429 ms,3137856,OK
+100000,Plat,Bubble Sort,TIMEOUT,0,TIMEOUT
+100000,Plat,Selection Sort,TIMEOUT,0,TIMEOUT
+100000,Plat,Insertion Sort,6.0920 s,0,OK
+100000,Plat,Quick Sort,SKIPPED,0,CRASH_PREVENTED
+100000,Plat,Merge Sort,38.3333 ms,6675712,OK
